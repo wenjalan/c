@@ -1,2 +1,2 @@
 # play
-Learning C.
+Learning C, C++, and Rust.
